@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns="https://www.phpdoc.org/guides"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.phpdoc.org/guides ../vendor/phpdocumentor/guides-cli/resources/schema/guides.xsd"
+        links-are-relative="true"
+>
+    <extension
+            class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
+            project-home="https://docs.typo3.org/m/typo3/community-infrastructure/main/en-us/"
+            project-contact="mailto:info@typo3.org"
+            project-repository="https://github.com/TYPO3-Documentation/Community-Infrastructure"
+            project-issues="https://github.com/TYPO3-Documentation/Community-Infrastructure/issues"
+            edit-on-github-branch="main"
+            edit-on-github="TYPO3-Documentation/Community-Infrastructure"
+            typo3-core-preferred="latest"
+            interlink-shortcode="community-infrastructure"
+    />
+    <project title="TYPO3 Community infrastructure"
+             release="main"
+             version="main"
+             copyright="since 2024 by the TYPO3 contributors"
+    />
+</guides>
