@@ -35,7 +35,7 @@ There are two types of budgets:
 Process
 =======
 
-* Budget Idas are discussed by the Budget Committee, publicly by the Community and then rated by the Members via Memberpoll.
+* Budget Ideas are discussed by the Budget Committee, publicly by the Community and then rated by the Members via member poll.
 * The Board decides about the final budget application and then grants the application fully or partly.
 * The Budget owner will receive a formal budget agreement (via mail). The agreement must be confirmed by answering the mail.
 * The Budget will be set up in  the `reimbursement tool <http://reimbursement.typo3.com/>`__. **The budget is accepted by the Budget owner automatically, once the first reimbursement is done.**
@@ -74,7 +74,7 @@ Change a granted budget during the running year
 
 If the scope of a budget changes during the project / budget period, the budget owner can apply to adapt the budget.
 
-1. Create an updated dudget application (pdf) and describe the changes of your budget and send it to “budget(at)typo3.org”
+1. Create an updated budget application (pdf) and describe the changes of your budget and send it to “budget(at)typo3.org”
 2. The BCC will review your demand and decide about your request and inform you.
 
 If your request is accepted by the BCC, they will upload the document to “Documents” section of your budget
@@ -98,6 +98,6 @@ The TYPO3 Association wants to support the TYPO3 project, TYPO3 CMS and it's com
 * Budget Ideas must be aligned with our `five goals <https://typo3.org/project/association#c7325>`__
 * We don’t want to freelance people
 * Invested money, must create a value towards our members. project or product
-* Working time in a budget should **not** exeed 50%
+* Working time in a budget should **not** exceed 50%
 * Regular work / tasks should be done by the TYPO3 company
 * Development of Extensions is not the focus of TYPO3 Association
