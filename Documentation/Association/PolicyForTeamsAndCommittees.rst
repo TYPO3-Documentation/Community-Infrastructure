@@ -47,7 +47,7 @@ Benefits for Official Teams
 ---------------------------
 
 * The leader and any other active team member can receive a typo3.org e-mail address. The address will be retained until the role ends (12 months of no activity in any team).
-* A team can maintain a team page at typo3.org.
+* A team can maintain a team page at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`.
 * A team member is allowed to call himself “Member of the TYPO3 [team name] Team“ as long as the member is active in the team.
 * A team can be assigned a budget (funding) by the Association or TYPO3 GmbH.
 
@@ -61,10 +61,10 @@ What is Expected of an Official Team?
 * The founding of a new team must be announced to the Team Leader Group
 * To become an official team, a team must have existed for longer than 6 months and fulfill all the requirements. This list makes up the requirements:
     * A mission statement is required: What are the team’s general tasks, what do we want to achieve, which services do we offer, maintain, or answer for.
-    * Four reports per year (news article at typo3.org) about what was achieved and what is planned.
+    * Four reports per year about what was achieved and what is planned.
     * An annual written report must be given at the General Assembly, containing an overview of the team’s activities during the last 12 months and plans for the coming year.
     * A clear definition of the team's tasks, responsibilities, and goals.
-    * The team decides whether or not to allow new members. Entry requirements should exist in writing and be publicly available at typo3.org (community section) . New team members should be brought in based on a fair and equal process.
+    * The team decides whether or not to allow new members. Entry requirements should exist in writing and be publicly available at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`. New team members should be brought in based on a fair and equal process.
     * The Leader of the Team  (or a representative)  should attend Team Leader Meeting regularly.
 * The team defines itself and the roles within it.
 * In case of a dysfunctional team, any team member can escalate the topic to the TYPO3 Association or the Team Leader Group via an ombudsperson or through an official request to one of the board members.

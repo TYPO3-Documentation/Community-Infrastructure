@@ -38,7 +38,7 @@ Process
 * Budget Ideas are discussed by the Budget Committee, publicly by the Community and then rated by the Members via member poll.
 * The Board decides about the final budget application and then grants the application fully or partly.
 * The Budget owner will receive a formal budget agreement (via mail). The agreement must be confirmed by answering the mail.
-* The Budget will be set up in  the `reimbursement tool <http://reimbursement.typo3.com/>`__. **The budget is accepted by the Budget owner automatically, once the first reimbursement is done.**
+* The Budget will be set up in  the `reimbursement tool <https://reimbursement.typo3.com>`__. **The budget is accepted by the Budget owner automatically, once the first reimbursement is done.**
 
 ..  _budget-owner-application:
 
@@ -62,7 +62,7 @@ Tips for budget planning:
 -------------------------
 
 * Try to organize sprints. Gather many people at the same time and/or location.
-* Announce sprints at typo3.org and social media, to get more people involved.
+* Announce sprints at `typo3.community <https://typo3.community/>` and social media, to get more people involved.
 * Public reports are essential! Write about your work in order to make it visible and entice more people to your team or project.
 * You are allowed to use your budget to attend events, if you use this event to make your project public and invite people to contribute.
 * Report early to the Budget Team, if you need less or more budget.
