@@ -3,10 +3,10 @@
 ..  _decision-process:
 
 ====================================================================================
-Decision-Making Processes, Contribution and Participation within the TYPO3 Community
+Decision-Making Processes, Contribution, and Participation within the TYPO3 Community
 ====================================================================================
 
-**This policy outlines the difference between groups, as well describing the decision-making, empowerment and disbanding processes.**
+**This policy outlines the difference between groups, as well as describing the decision-making, empowerment, and disbanding processes.**
 
 ..  _decision-process-types:
 
@@ -18,7 +18,7 @@ Types of Participation
 Teams
 -----
 
-Teams are responsible for a certain part of the community, indefinitely or for a longer period of time.
+Teams are responsible for a specific part of the community, either indefinitely or for a longer period.
 
 ..  _decision-process-committee:
 
@@ -39,9 +39,9 @@ Every Team and Committee sends the Leader (or a representative) to the Team Lead
 Initiatives
 -----------
 
-An initiative consists of people with a common interest to make long-term improvements to a specific area of TYPO3, including strategic plans, goals, and monitoring of progress. An Initiative is instanced by Team, Committee or the TYPO3 Association.
+An initiative comprises people with a shared interest in making long-term improvements to a specific area of TYPO3, including strategic plans, goals, and progress monitoring. An Initiative is instanced by Team, Committee, or the TYPO3 Association.
 
-It’s important that initiatives maintain focus on achieving their defined goals. When the goals have been reached, the initiative is dissolved.
+It’s important that initiatives maintain focus on achieving their defined goals. Once the goals are met, the initiative is dissolved.
 
 Examples of initiatives:
 
@@ -55,12 +55,12 @@ Decision-Making Processes Within the TYPO3 Community
 
 Decisions should be made within the groups (teams, Committees, Initiatives)  themselves.
 
-Each decision should be aligned with the common roadmap of the TYPO3 project.
+Each decision should align with the TYPO3 project's common roadmap.
 
-If a decision influences the work of several teams, the Team Leader Group should be consulted. This is especially important if new services are being introduced, existing services are being shut down, and for situations concerning the external presentation of the TYPO3 project.
+If a decision influences the work of several teams, the Team Leader Group should be consulted. This is especially important if new services are being introduced, existing services are being discontinued, or if there are issues with the TYPO3 project's external presentation.
 
 If the Team Leader Group is not able to reach a decision, the Association Board must be brought into the discussion.
 
-Every decision should embrace the TYPO3 values. The benefits of changes should always be determined.
+Every decision should reflect TYPO3's values. The benefits of changes should always be determined.
 
-Every decision must be based on factual pros and cons and the intention to improve a situation. (“What is improved by choosing this particular direction?”)
+Every decision must be based on the facts, the pros and cons, and the intention to improve the situation. (“What is improved by choosing this particular direction?”)
