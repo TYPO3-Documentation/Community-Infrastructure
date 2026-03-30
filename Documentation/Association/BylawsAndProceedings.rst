@@ -202,7 +202,7 @@ Instead of a meeting by gathering, ballot votes (written majority decisions conc
 
 For votes of the Auditors and of the Business Control Committee, in a first ballot the absolute majority, in the second ballot the relative majority of the voting members shall apply.
 
-The General Assembly shall decide by open ballot in all cases, unless the General Assembly decides to conduct the vote by secret ballot. On request of a voting member this can be decided with two-thirds majority of the voting members present. In the case of an Internet General Assembly or virtual General Assembly, the Association Board shall ensure that the secret ballot procedure can occur electronically.
+The General Assembly shall decide by open ballot in all cases, unless the General Assembly decides to conduct the vote by secret ballot. On request of a voting member this can be decided with one-third majority of the voting members present. In the case of an Internet General Assembly or virtual General Assembly, the Association Board shall ensure that the secret ballot procedure can occur electronically.
 
 Each member shall be entitled to contest decisions that violate the law or the statutes, within 30 days after knowledge of such decisions is obtained.
 
@@ -241,7 +241,7 @@ The term of office for the association’s board is three years according to the
 
 At the end of the term of office, elections for the association’s board are held during the general assembly. Each year up to three Association Board members shall be newly elected.
 
-Every association member may nominate themselves or another board candidate for election; nominees have to confirm their candidacy in advance. Written notice of proposed board candidates must be submitted to the board no later than during the general assembly. The association’s board may also be elected prior to the general assembly by online voting. In this case, the members must be granted a reasonable advance term for the announcement of board candidates.
+Every association member may nominate themselves or another board candidate for election; nominees have to confirm their candidacy in advance. Written notice of proposed board candidates must be submitted to the board no later than six weeks before the general assembly. The association’s board may also be elected prior to the general assembly by online voting. In this case, the members must be granted a reasonable advance term for the announcement of board candidates.
 
 The outcome of the election is decided by counting the votes received by the candidates. A candidate shall be elected if they receive at least 50% of the votes cast. If candidates do not achieve this majority in the first ballot, further ballots shall follow until the required majority is reached. In case of tie votes for excess candidates, there shall be a second ballot; in case of another tie vote, the decision is made by lot. The election and assignment of functions (president, vice president, actuary and treasurer) are performed during the general assembly before the start of a new term of office by a simple majority of the attending board members.
 
@@ -282,7 +282,7 @@ The Association Board shall issue Rules of Procedure and shall regulate its task
 Art. 20 Convocation, minutes
 ----------------------------
 
-Meetings shall be convened by the President of the Association Board, as often as business matters so require. Each member of the Association Board shall be entitled to request a meeting. In this case the meeting must be held within three weeks. The Association Board shall keep minutes of resolutions. By order of the President or on request of a member of the Association Board, votes that have been taken shall be summarised and recorded in the minutes.
+Meetings shall be convened by the President of the Association Board, as often as business matters so require, but at least once annually before the end of the term of office (main meeting). Each member of the Association Board shall be entitled to request a meeting. In this case the meeting must be held within three weeks. The Association Board shall keep minutes of resolutions. By order of the President or on request of a member of the Association Board, votes that have been taken shall be summarised and recorded in the minutes.
 
 ..  _bylaws-21:
 
