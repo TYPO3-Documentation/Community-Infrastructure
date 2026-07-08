@@ -410,7 +410,7 @@ d. Requirements
 At the time of submission, invoices must:
 
 1. Each be contained within a single file (ideally PDF).
-2. Be addressed to TYPO3 Association, Rathausstrasse 14, CH-6340 Baar, Switzerland.
+2. Be addressed to TYPO3 Association, Bahnhofstraße 4, CH-6340 Baar, Switzerland.
 3. Contain all relevant information, documentation, and attachments upon which the invoice is based, as described in the Documentation section.
 4. Contain the budget number, either printed or handwritten.
 5. Not have an invoice date older than 20 days.

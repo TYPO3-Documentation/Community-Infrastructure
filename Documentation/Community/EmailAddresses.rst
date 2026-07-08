@@ -84,6 +84,6 @@ Signature templates
     President of the TYPO3 Association,
     typo3.org
     TYPO3 Association,
-    Rathausstrasse 14
+    Bahnhofstraße 4
     CH-6340 Baar
     Switzerland
