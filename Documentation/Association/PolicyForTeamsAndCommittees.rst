@@ -64,7 +64,7 @@ What is Expected of an Official Team?
     * Four reports per year about what was achieved and what is planned.
     * An annual written report must be given at the General Assembly, containing an overview of the team’s activities during the last 12 months and plans for the coming year.
     * A clear definition of the team's tasks, responsibilities, and goals.
-    * The team decides whether or not to allow new members. Entry requirements should exist in writing and be publicly available at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`. New team members should be brought in based on a fair and equal process.
+    * The team decides whether or not to allow new members. Entry requirements should exist in writing and be publicly available at `the typo3.community Teams pages <https://typo3.community/contribute/teams-committees>`__. New team members should be brought in based on a fair and equal process.
     * The Leader of the Team  (or a representative)  should attend Team Leader Meeting regularly.
 * The team defines itself and the roles within it.
 * In case of a dysfunctional team, any team member can escalate the topic to the TYPO3 Association or the Team Leader Group via an ombudsperson or through an official request to one of the board members.

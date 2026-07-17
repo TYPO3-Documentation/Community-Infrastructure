@@ -62,7 +62,7 @@ Tips for budget planning:
 -------------------------
 
 * Try to organize sprints. Gather many people at the same time and/or location.
-* Announce sprints at `typo3.community <https://typo3.community/>` and social media, to get more people involved.
+* Announce sprints at `typo3.community <https://typo3.community/>`__ and social media, to get more people involved.
 * Public reports are essential! Write about your work in order to make it visible and entice more people to your team or project.
 * You are allowed to use your budget to attend events, if you use this event to make your project public and invite people to contribute.
 * Report early to the Budget Team, if you need less or more budget.
