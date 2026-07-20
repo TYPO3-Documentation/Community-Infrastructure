@@ -189,7 +189,7 @@ Extension maintainers may adapt the following text for inclusion in their projec
 
     ## AI-Assisted Contributions
 
-    We welcome contributions that use AI coding assistants.
+    We accept contributions that use AI coding assistants.
     This project follows the TYPO3 Association Policy on
     AI-Assisted Code. Please note:
 
