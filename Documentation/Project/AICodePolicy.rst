@@ -77,7 +77,7 @@ Contributors should be aware that the copyright status of AI-generated code rema
 3.6 Provenance Certification via DCO Sign-off
 ---------------------------------------------
 
-To make the affirmation in Section 3.5 explicit and auditable, contributions  should carry a Developer Certificate of Origin (DCO) sign-off. Following the TYPO3 Association Board's July 2026 statement, this is the recommended mechanism for certifying provenance: a lightweight, transparent alternative to a full Contributor License Agreement, which TYPO3 deliberately does not require.
+To make the affirmation in Section 3.5 explicit and auditable, contributions should carry a Developer Certificate of Origin (DCO) sign-off. Following the TYPO3 Association Board's July 2026 statement, this is the recommended mechanism for certifying provenance: a lightweight, transparent alternative to a full Contributor License Agreement, which TYPO3 deliberately does not require.
 
 The DCO sign-off is a deliberate ``Signed-off-by:`` trailer line in the commit message, distinct from Git's author field. By adding it, the contributor certifies the terms of the `Developer Certificate of Origin <https://developercertificate.org/>`__: that they have the right to submit the contribution under the extension's open source license. This representation applies with equal force whether or not AI tools assisted in producing the code, and it does not shift responsibility onto those tools. Because it is recorded in the commit history, the sign-off makes the contributor's provenance representation explicit and auditable, which is particularly valuable for detecting the unintentional inclusion of third-party material.
 
