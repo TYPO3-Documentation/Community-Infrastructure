@@ -200,7 +200,7 @@ Extension maintainers may adapt the following text for inclusion in their projec
     - Please tag AI-assisted commits with:
       `AI-assisted: [tool name]`
     - Verify all code against current TYPO3 APIs.
-    - Run tests before submitting.
+    - Run linters, analyzers and tests before submitting.
     - Review security-sensitive code with extra care.
 
 Appendix B: Suggested Commit Message Format
