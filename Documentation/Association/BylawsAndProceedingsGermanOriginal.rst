@@ -129,9 +129,9 @@ B. Vereinsvorstand (Board)
 
 C. Rechnungsrevisoren
 
-D. Geschäftsprüfungskommission (Business Control Comittee)
+D. Geschäftsprüfungskommission (Business Control Committee)
 
-E. Ausschüsse (Comittees)
+E. Ausschüsse (Committees)
 
 ..  _bylaws-de-a:
 
@@ -176,15 +176,19 @@ Die Aufgaben und Kompetenzen der Generalversammlung sind Folgende:
 #. Kenntnisnahme des Budgets für das laufende Jahr;
 #. Aufnahmebeitrag und Jahresbeitrag der Mitglieder für das laufende Mitgliedsjahr;
 #. Wahlen
+
     #. des Sachverständigenrats des Vorstandes
     #. der Rechnungsrevisoren
     #. der Mitglieder der Geschäftsprüfungskommission
+
 #. Behandlung von Anträgen
+
     #. des Vereinsvorstands
     #. der Mitglieder
+
 #. Tätigkeitsprogramm;
-#. #. Statutenänderungen;
-Ernennung von Ehrenmitgliedern;
+#. Statutenänderungen;
+#. Ernennung von Ehrenmitgliedern;
 #. Beschwerde gegen geschäftsführende Organe, Beschlussfassung über die Berufung gegen einen Ausschliessungsbeschluss oder Ablehnung eines vorläufigen Aufnahmebeschlusses des Vereinsvorstands.
 
 ..  _bylaws-de-14:
@@ -330,9 +334,9 @@ Die Generalversammlung wählt jeweils auf eine Amtsdauer von einem Jahr eine ane
 
 Die Revisionsstelle prüft die Buchführung und erstattet der Generalversammlung schriftlich Bericht und stellt der Generalversammlung Antrag auf Erteilung oder Verweigerung der Décharge gegenüber dem Kassier und dem Vorstand.
 
-..  _bylaws-de-e:
+..  _bylaws-de-d:
 
-E Geschäftsprüfungskommission
+D Geschäftsprüfungskommission
 =============================
 
 ..  _bylaws-de-26:

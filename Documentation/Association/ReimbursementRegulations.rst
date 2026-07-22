@@ -61,7 +61,7 @@ If you are unable to cover travel, lodging, and food expenses, you can ask the b
 3. Submit a reimbursement request
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Submit a reimbursement request <https://typo3.org/project/association/funding-finances/invoicing-the-typo3-association/reimbursement-tool/create-a-reimbursement>`__ using the Reimbursement Tool within 20 days. Check out the `step-by-step guide <https://typo3.org/project/association/funding-finances/invoicing-the-typo3-association/reimbursement-tool/create-a-reimbursement>`__. This will send a request asking the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__ to review your request.
+`Submit a reimbursement request <https://docs.typo3.org/m/typo3/guide-step-by-step/main/en-us/70ForOfficialRoles/BudgetsAndExpenses/CreateARegularReimbursementInTheReimbursementTool.html#create-a-regular-reimbursement-in-the-reimbursement-tool>`__ using the Reimbursement Tool within 20 days. Check out the `step-by-step guide <https://docs.typo3.org/m/typo3/guide-step-by-step/main/en-us/70ForOfficialRoles/BudgetsAndExpenses/CreateARegularReimbursementInTheReimbursementTool.html#create-a-regular-reimbursement-in-the-reimbursement-tool>`__. This will send a request asking the budget owner to review your request.
 
 The reimbursement is usually paid out by `PayPal <https://www.paypal.com/>`__ or `bank transfer <https://en.wikipedia.org/wiki/Wire_transfer>`__ within a couple of weeks. A bit later you will receive an automatic email asking you to confirm that you have received the reimbursement. If the money has not arrived by this point, you should contact the `budget owner <https://typo3.org/project/association/funding-finances/budget#c13503>`__.
 
