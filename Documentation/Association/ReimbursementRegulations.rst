@@ -92,6 +92,12 @@ Invoices
 
 If you’re a **business or freelancer, you can invoice** the `TYPO3 Association <https://typo3.org/project/association>`__ and submit the invoice as a part of the reimbursement request. Remember to write the budget number on the invoice. Most invoicing applications will generate **invoices that comply with the minimum requirements** in :ref:`section 4.d <reimbursement-regulations-4d>`. Remember that you’re invoicing a Swiss association, so you should only apply VAT if you are invoicing from Switzerland.
 
+Invoices need to have the correct recepient:
+TYPO3 Association
+Bahnhofstrasse 4
+CH-6340 Baar
+Switzerland
+
 Although you’re invoicing, you still have to include all of the paperwork that documents your expenses or work time. The **invoice must be due at least 20 days** into the future when you submit it. See :ref:`section 4 <reimbursement-regulations-4>` for detailed requirements and this `example invoice <https://raw.githubusercontent.com/TYPO3-Documentation/Policy/refs/heads/main/Resources/Public/Downloads/ExampleInvoice.pdf>`__.
 
 ..  _reimbursement-regulations:
