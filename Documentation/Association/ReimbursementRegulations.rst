@@ -94,7 +94,7 @@ If you’re a **business or freelancer, you can invoice** the `TYPO3 Association
 
 Invoices need to have the correct recepient:
 TYPO3 Association
-Rathausstrasse 14
+Bahnhofstrasse 4
 CH-6340 Baar
 Switzerland
 
